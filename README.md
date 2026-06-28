@@ -1,2 +1,2 @@
 # meetme
-redirect to Google meet
+redirect to Proton Meet
